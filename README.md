@@ -2,7 +2,7 @@
 
 Controle de Aluguéis de Equipamentos
 
-# Trabalho
+# Descrição do Projeto
 Uma empresa fornece equipamentos para construção civil deseja modernizar seu sistema de controle de aluguéis. Eles solicitaram a sua ajuda para criar uma solução que permita gerenciar eficientemente o aluguel de diversos tipos de equipamentos. A empresa fornece uma variedade de equipamentos para construção civil, como escavadeiras, betoneiras, andaimes.
 
 # Documentação do Código
