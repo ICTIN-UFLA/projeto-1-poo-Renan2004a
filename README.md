@@ -1,8 +1,8 @@
-##Nome do Projeto
+# Nome do Projeto
 
 Controle de Aluguéis de Equipamentos
 
-#Documentação do Código
+# Documentação do Código
 Este é um sistema desenvolvido em Java para gerenciar o aluguel de equipamentos. Ele permite cadastrar clientes, cadastrar produtos, realizar aluguéis, devoluções e acessar relatórios. 
 Execução: Execute o programa e siga as instruções fornecidas no console.
 
@@ -21,10 +21,10 @@ Lista de alugueis: Exibe a lista de todos os aluguéis realizados.
 Lista de alugueis por cliente: Exibe a lista de aluguéis realizados por um cliente específico.
 Relatório mensal e faturamento: Calcula e exibe o faturamento total mensal.
 
-#Alunos
+# Alunos
 
 Enzo Augusto Valentim
 Renan Alves Tavares
 
-#Docente Orientador
+# Docente Orientador
 Johnatan Alves de Oliveira
