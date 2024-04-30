@@ -2,6 +2,9 @@
 
 Controle de Aluguéis de Equipamentos
 
+# Trabalho
+Uma empresa fornece equipamentos para construção civil deseja modernizar seu sistema de controle de aluguéis. Eles solicitaram a sua ajuda para criar uma solução que permita gerenciar eficientemente o aluguel de diversos tipos de equipamentos. A empresa fornece uma variedade de equipamentos para construção civil, como escavadeiras, betoneiras, andaimes.
+
 # Documentação do Código
 Este é um sistema desenvolvido em Java para gerenciar o aluguel de equipamentos. Ele permite cadastrar clientes, cadastrar produtos, realizar aluguéis, devoluções e acessar relatórios. 
 Execução: Execute o programa e siga as instruções fornecidas no console.
